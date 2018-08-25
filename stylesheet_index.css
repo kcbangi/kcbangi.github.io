@@ -1,0 +1,28 @@
+/* index page style sheet */
+
+header{
+    color:black;
+    background-color: gray;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+}
+
+body{
+    width: 800px;
+    margin: auto;
+}
+
+.avatarImage{
+    width: 150px;
+    display: inline-block;
+}
+
+nav li{
+    list-style: none;
+    display: inline;
+    padding: 6px 6px;
+    border: solid 2px black;
+    margin: 1px;
+
+}
